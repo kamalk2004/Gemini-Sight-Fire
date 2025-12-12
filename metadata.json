@@ -1,0 +1,5 @@
+{
+  "name": "GeminiSight , an AI-powered multimodal analysis engine.",
+  "description": "A professional-grade multimodal analysis dashboard using Gemini 3.0 Pro Multimodal Engine. Supports Infrastructure, Forensics, Deepfake Detection, and Eco-Defense modes with video and image analysis capabilities.",
+  "requestFramePermissions": []
+}
