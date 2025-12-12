@@ -1,5 +1,6 @@
 # ⚡ GeminiSight — Multimodal AI Defense & Analysis Engine (React + TypeScript)
-
+Problem - [https://youtu.be/FSsMaYLAyHY](url)
+Sloution - [https://youtu.be/xgFHrbV98Xs](url)
 An advanced **AI-powered multimodal analysis platform** built with **React, TypeScript, and Vite**, capable of real-time:
 
 * 🏗 **Infrastructure defect detection**
@@ -148,11 +149,7 @@ The results appear in clean UI cards & visual containers.
 
 ---
 
-## 📸 Screenshots
 
-*(Add your UI screenshots here later)*
-
----
 
 ## 🛡 License
 
